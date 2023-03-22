@@ -1,19 +1,5 @@
 {
-  "name": "vendor_name/cinemaValtrone",
-  "description": "description",
-  "minimum-stability": "stable",
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Val",
-      "email": "poklad_val@rambler.ru"
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
     }
-  ],
-  "require": {
-  },
-  "config": {
-    "preferred-install": "dist",
-    "disable-tls": true,
-    "secure-http": false
-  }
 }
